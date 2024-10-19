@@ -44,6 +44,7 @@ Bella is an artificial intelligence chatbot designed to transform the personaliz
 You have to run both projects:
 - Bella Chatbot
 - Bella API
+
 When runnning Bella Chatbot, it generaters a QR code. You must open this iamge and scan the QR code inside WhatsApp. Now from the connected phone, it will act as the Chatbot, and when sending messages to it from another device you will be able to interact with Bella.
 
 ## Software Architecture
